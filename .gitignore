@@ -1,3 +1,7 @@
 *.pyc
 *#
 *~
+*.tmp
+*.exe
+*.zip
+*.tar*
